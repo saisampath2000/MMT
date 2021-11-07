@@ -1,0 +1,11 @@
+.rightBar {
+	/* position:absolute;
+	right:0; */
+	width: 75%;
+	/* height:100%; */
+	background-color: "#b9daf0",
+}
+
+.rightBar::-webkit-scrollbar {
+    display: none;
+}
